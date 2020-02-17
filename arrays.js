@@ -19,3 +19,7 @@ var chocolateBars = ['snickers', 'hundred grand', 'kitkat', 'skittles']
     array.push(element)
     return array
   }
+
+  function accessElementInArray(array, index) {
+    return array[index]
+  }
